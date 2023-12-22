@@ -1,16 +1,44 @@
-### Hi there 👋
+<h2>Hi 🖐️ welcome to my GitHub<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h3> 💌 &nbsp;About Me </h3>
 
-<!--
-**MaryaJamali/MaryaJamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align=center>💻 &nbsp; If you want to know me please run this command `pip install googletrans==4.0.0-rc1` and then run my code snippet &nbsp;  💻 </h5>
 
-Here are some ideas to get you started:
+```Python
+from googletrans import Translator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+full_name = "Maryam Jamali"
+birth_year = 1990
+education = "Master's degree in educational management"
+
+
+def introduce_myself(full_name, birth_year, education):
+    # Please enter the current year in the Gregorian date
+    current_year = 2024
+    my_age = current_year - birth_year
+    introduction = (f"Hi, my name is {full_name}. I am {my_age} years old and have a {education}."
+                    f"I am interested in working on projects that I can master their programming language..")
+    return introduction
+
+
+def translate_text(text):
+    translator = Translator()
+    result = translator.translate(text, dest='fa')
+    return result.text
+
+
+introduction_text = introduce_myself(full_name, birth_year, education)
+persian_text = translate_text(introduction_text)
+print(introduction_text)
+print()
+print(persian_text)
+```
+<h3>   💪 &nbsp;Skills </h3>
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Django" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="HTML" /></a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="CSS" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="PHP" /></a>
+    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
