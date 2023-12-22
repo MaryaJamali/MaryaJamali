@@ -1,8 +1,8 @@
-![12](https://github.com/MaryaJamali/MaryaJamali/assets/150019136/a87a5fcc-9dbb-4906-9ec8-985df77bca00)<h2>Hi 🥰 welcome to my GitHub<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, 🖐️ welcome to my GitHub 💖</h2>
 
 <h3> 💌 &nbsp; About Me </h3>
 
-<h5 align=center>💻 &nbsp; If you want to know me please run my code snippet &nbsp;  💻 </h5>
+<h5 align=center>💻 &nbsp; If you want to know me,please run my code snippet &nbsp;  💻 </h5>
 
 ```Python
 from googletrans import Translator
