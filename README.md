@@ -1,4 +1,4 @@
-<h2>Hi 🥰 welcome to my GitHub<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+![12](https://github.com/MaryaJamali/MaryaJamali/assets/150019136/a87a5fcc-9dbb-4906-9ec8-985df77bca00)<h2>Hi 🥰 welcome to my GitHub<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h3> 💌 &nbsp; About Me </h3>
 
@@ -45,7 +45,7 @@ ____
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/MaryaJamali/MaryaJamali/blob/main/Css.png?raw=true" width="46" height="46" alt="CSS"/></a> &nbsp; <img src="https://img.shields.io/badge/85%20percent-1E90FF" width="89" height="25" alt="CSS"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/MaryaJamali/MaryaJamali/blob/main/JavaScript.png?raw=true" width="46" height="46" alt="JavaScript"/></a> &nbsp; <img src="https://img.shields.io/badge/80%20percent-fce908" width="89" height="25" alt="JavaScript"/><br/><br/>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MaryaJamali/MaryaJamali/blob/main/BootStrap.png?raw=true" width="46" height="46" alt="BootStrap"/></a> &nbsp; <img src="https://img.shields.io/badge/85%20percent-7f81e4" width="89" height="25" alt="BootStrap"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target="_blank" rel="noreferrer"><img src="https://github.com/MaryaJamali/MaryaJamali/blob/main/Php.png?raw=true" width="46" height="46" alt="PHP"/></a> &nbsp; <img src="https://img.shields.io/badge/32%20percent-9fa1ec" width="89" height="25" alt="PHP"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target="_blank" rel="noreferrer"><img src="https://github.com/MaryaJamali/MaryaJamali/blob/main/Php.png?raw=true" width="46" height="46" alt="PHP"/></a> &nbsp; <img src="https://img.shields.io/badge/32%20percent-d7daff" width="89" height="25" alt="PHP"/>
 </p>
 
 <br/>
