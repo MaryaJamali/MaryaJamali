@@ -2,7 +2,9 @@
 
 <h3> 💌 &nbsp; About Me </h3>
 
-<h5 align=center>💻 &nbsp; If you want to know me,please run my code snippet &nbsp;  💻 </h5>
+<h5 align=center>💻 &nbsp; If you want to know me, please run the first command to translate run and after installation, run my code snippet. &nbsp;  💻 </h5>
+    
+``` pip install googletrans==4.0.0-rc1```
 
 ```Python
 from googletrans import Translator
