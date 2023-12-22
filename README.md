@@ -86,6 +86,6 @@ ____
     <img src="https://img.shields.io/badge/Instagram-@Jamali130097-red?style=flat&logo=Instagram" alt="Instagram"/>
   </a>
   <a href="https://t.me/Jamali90/">
-    <img src="https://img.shields.io/badge/Telegram-@Jamali90-blue?style=flat&logo=telegram" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@Jamali90-blue?style=flat&logo=Telegram" alt="Telegram"/>
   </a>
 </p>
