@@ -74,7 +74,7 @@ ____
 ____
    - 💻 &nbsp; Coding a store backend development project with Python & Django
    - 🌐 &nbsp; Coding a store template design project with Html,Bootstrap,Css & Javascript
-   - 👩‍🎓 &nbsp; Learning React & DjangoRest
+   - 👩‍🎓 &nbsp; Learning ....
 
 <br/>
 
